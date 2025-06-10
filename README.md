@@ -1,6 +1,6 @@
-# Document Q&A Bot
+# PDF Q&A Bot
 
-Simple Q&A chatbot app that allows users to ask questions based only on the provided PDF. **. The app uses **RAG (Retrieval-Augmented Generation)** to extract relevant context from the PDF and then generate answers using **OpenAI's GPT-3.5 Turbo** model.
+Simple Q&A chatbot that allows users to ask questions based only on the provided PDF. **. The app uses **RAG (Retrieval-Augmented Generation)** to extract relevant context from the PDF and then generate answers using **OpenAI's GPT-3.5 Turbo** model.
 
 ---
 
